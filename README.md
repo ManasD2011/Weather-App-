@@ -4,8 +4,6 @@ A **cloud-native weather alert system** using **Google Cloud Platform** that:
 - Fetches weather data every hour via **Cloud Scheduler + Cloud Functions**
 - Sends critical weather alerts via **Pub/Sub**
 - Logs alerts to **Firestore** for permanent record
-- Uses **environment variables** securely (with `.env.example`)
-- 100% deployable with GCP and GitHub-friendly
 
 ---
 
