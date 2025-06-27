@@ -28,6 +28,4 @@ A **cloud-native weather alert system** using **Google Cloud Platform** that:
 | Messaging    | Pub/Sub                   |
 | Database     | Firestore (NoSQL)         |
 | Scheduler    | Cloud Scheduler           |
-| Hosting      | GCP Cloud Functions       |
-
 ---
